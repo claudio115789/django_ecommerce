@@ -1,0 +1,6 @@
+#Byte-compiled / optimize / DLL files
+ 
+__pycache__/
+
+*.sqlite3
+        
